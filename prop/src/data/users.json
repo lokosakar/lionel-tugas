@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "pengguna",
+    "email": "tes@gmail.com",
+    "role": "User"
+  },
+  {
+    "id": 2,
+    "name": "baru",
+    "email": "tes@gmail.com",
+    "role": "User"
+  },
+  {
+    "id": 3,
+    "name": "user",
+    "email": "tes@gmail.com",
+    "role": "User"
+  }
+]
